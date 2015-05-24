@@ -13,8 +13,9 @@ show("Hax");
 
 
 
-Paste the following snippet into the
-babel repl to use it for the presentation
+Paste the following snippet into
+https://babeljs.io/repl/
+to use it for the presentation
 */
 /*eslint-disable */
 var out;
