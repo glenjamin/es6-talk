@@ -4,7 +4,9 @@ A talk about ES6 and beyond
 
 ## Overview
 
-* ES3, ES4, ES5
+* ES3
+* ES4 fails
+* ES5 succeeds!
 * CoffeeScript
 * Harmony
 * TC39
@@ -14,15 +16,16 @@ A talk about ES6 and beyond
 * Babel
 * Examples
   - arrows
-  - default params
   - destructuring
+  - default params
   - spread
   - object shorthands
   - computed properties
   - template strings
-  - generators
+  - generators, yield, yield*
   - Map/Set/WeakMap/Symbol
   - iterator protocol
+  - Object.assign, Object.is
   - object spread (ES7)
 * Other niceties
   - iteration order specified
